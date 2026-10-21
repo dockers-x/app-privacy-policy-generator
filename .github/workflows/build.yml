@@ -14,7 +14,7 @@ permissions:
 
 env:
   UPSTREAM_REPO: nisrulz/app-privacy-policy-generator
-  IMAGE: ghcr.io/dockers-x/app-privacy-policy-generator
+  IMAGE: ghcr.io/dockers-x/privacy-policy-generator
 
 jobs:
   check:
