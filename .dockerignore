@@ -1,0 +1,11 @@
+.github/
+*.md
+cmd/
+src/
+tools/
+docs/
+img/
+node_modules/
+.github/
+tests/
+playwright.config.ts
